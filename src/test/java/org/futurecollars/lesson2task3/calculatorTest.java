@@ -1,4 +1,4 @@
-package org.futurecollars;
+package org.futurecollars.lesson2task3;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

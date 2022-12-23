@@ -1,4 +1,4 @@
-package org.futurecollars;
+package org.futurecollars.lesson2task3;
 
 public class calculator {
     public static int sum(int a, int b)

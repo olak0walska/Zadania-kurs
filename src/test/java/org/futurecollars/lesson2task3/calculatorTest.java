@@ -1,9 +1,7 @@
-package org.example;
+package org.futurecollars;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class calculatorTest {
 

@@ -1,4 +1,4 @@
-package org.example;
+package org.futurecollars;
 
 public class calculator {
     public static int sum(int a, int b)

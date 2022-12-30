@@ -1,0 +1,8 @@
+1. Utworz nowy branch (np. przez GH)
+2. Pobierz najnowsze zmiany (git pull)
+3. Przelacz sie na nowy branch (git checkout nazwaBrancha)
+4. Tworzymy nowa paczke i w niej umiesczamy kod z rozwiazaniem zadania
+5. Dodajemy nowe pliki do sledzonych przez git (git add plik (git add src/main/java/org/futurecollars/lesson2task4/plik.txt ))
+6. Komitujemy zmiany (git commit -m'...')
+7. Pushujemy zakomitowane zmiany do znalnego repozytorium (git push)
+8. Utworzyc PR na GH
